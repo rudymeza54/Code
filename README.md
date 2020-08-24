@@ -1,7 +1,7 @@
 # Code
 R Programming Code
 
-#[EDA for Epidemic of Obesity](https://github.com/rudymeza54/Code/blob/master/The%20Epidemic%20of%20Obesity.rmd)
+#[EDA for Epidemic of Obesity](https://github.com/rudymeza54/Code/blob/master/The-Epidemic-of-Obesity.md)
 
 #Part 1: Data
 
