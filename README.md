@@ -1,7 +1,7 @@
 # Code
 R Programming Code
 
-# EDA for Epidemic of Obesity
+#[EDA for Epidemic of Obesity](https://github.com/rudymeza54/Code/blob/master/The%20Epidemic%20of%20Obesity.rmd)
 Part 1: Data
 #The Behavioral Risk Factor Surveillance System (BRFSS) data is a telephone survey in the U.S. and all U.S. territories. The data collection method is uniform and random. The goal of this survey is to collect data on preventative health factors and risky behavior that have been linked to injuries, chronic illness, and disease. This would be a generalized analysis to link many factors that affect a person’s health. This is an observational study conducted by the BRFSS.
 
