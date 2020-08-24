@@ -175,7 +175,7 @@ high_ob<-high %>%
 
 Here we can see there are spikes during the summertime. There is a turn
 around in the summer followed by an increase than a decrease in the
-fall. One last spike around November and then a decrease in December.
+fall. One last spike around October and then a decrease around December.
 
 **Research quesion 3:**
 
