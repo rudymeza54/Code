@@ -15,3 +15,5 @@ Authors Hammond and Levine analyze the types of economic costs associated with o
 *Research quesion 2: What is the average of obesity per month? How does month to month rates compare?
 
 *Research quesion 3: How do individuals who exercise compare in the BMI category? What about individuals who smoke and are in the obese category? * * *
+
+#[Text Analysis of Wine](https://github.com/rudymeza54/Code/blob/master/NLP.md)
